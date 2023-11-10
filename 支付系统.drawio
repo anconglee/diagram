@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T09:06:57.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="XVAobwnBRrE0Nvv-y-L-" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T09:08:31.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="2o-IM7QpinApExNxb3eM" version="22.1.0" type="github">
   <diagram id="eR4daZzUK4Ss6GPiXAMF" name="第 1 页">
     <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -91,6 +91,9 @@
         </mxCell>
         <mxCell id="0AmFEq-jED0THOiE3WDu-36" value="点券系统" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0AmFEq-jED0THOiE3WDu-41" value="支付系统" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="180" width="850" height="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
